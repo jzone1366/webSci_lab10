@@ -1,0 +1,13 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:foaf="http://xmlns.com/foaf/0.1/">
+	<foaf:Person rdf:ID="me">
+		<foaf:name>Joshua Zone</foaf:name>
+		<foaf:title>Mr</foaf:title>
+		<foaf:givenname>Joshua</foaf:givenname>
+		<foaf:family_name>Zone</foaf:family_name>
+		<foaf:nick>Zone</foaf:nick>
+		<foaf:mbox rdf:resource="mailto:jzone1229@gmail.com"/>
+		<foaf:homepage rdf:resource="www.zonejm.com"/>
+		<foaf:schoolHomepage rdf:resource="www.itws.rpi.edu"/>
+	</foaf:Person>
+</rdf:RDF>
